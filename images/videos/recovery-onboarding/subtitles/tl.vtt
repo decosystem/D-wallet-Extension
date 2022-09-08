@@ -1,0 +1,213 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.900
+
+
+2
+00:00:00.900 --> 00:00:04.400
+Ito ay isang tutorial kung paano gamitin ang iyong D-Wallet.
+
+3
+00:00:04.400 --> 00:00:07.500
+Ang D-wallet ay isang desentralisadong natatanging wallet sa mundo ng DeFi.
+
+4
+00:00:07.500 --> 00:00:10.800
+Sa video na ito, ipapakita namin sa iyo kung paano
+
+5
+00:00:10.800 --> 00:00:14.000
+para mag-import ng mga token sa iyong wallet. Upang
+
+6
+00:00:14.000 --> 00:00:18.100
+tingnan ang iyong wallet, pumunta sa kanang sulok sa itaas. I-click
+
+7
+00:00:18.100 --> 00:00:22.000
+sa ibabaw nito. Ngayon, mag-click sa 'mga detalye ng account'. Ikaw
+
+8
+00:00:22.000 --> 00:00:25.200
+makikita ang QR code ng iyong wallet. Maaari kang mag-scan
+
+9
+00:00:25.200 --> 00:00:28.600
+ito, idagdag ito sa isang mail o ipadala ito kahit sa bawat chat at ipadala
+
+10
+00:00:28.600 --> 00:00:31.900
+sa isang taong gustong magpadala ng crypto sa iyo. Sa ilalim ng QR
+
+11
+00:00:31.900 --> 00:00:35.100
+code, makikita mo ang mga numero. Ang mga numerong ito ay sa iyo
+
+12
+00:00:35.100 --> 00:00:38.400
+pampublikong susi. Kung mag-click ka sa mga numero, sila ay makokopya
+
+13
+00:00:38.400 --> 00:00:41.600
+at maaari mo itong ipadala sa isang taong gustong magpadala sa iyo
+
+14
+00:00:41.600 --> 00:00:45.000
+crypto. Kung mag-click ka sa menu na 'Tingnan sa Etherscan'
+
+15
+00:00:45.000 --> 00:00:48.500
+item, maaari mong tingnan ang iyong wallet sa etherscan.io at
+
+16
+00:00:48.500 --> 00:00:51.900
+lahat ng mga transaksyon sa karagdagang impormasyon. Upang i-export
+
+17
+00:00:51.900 --> 00:00:55.100
+iyong pribadong key, mag-click sa menu item at ilagay ang iyong password
+
+18
+00:00:55.100 --> 00:00:58.500
+na ginagamit mo para mag-log in sa D-Wallet. I-save
+
+19
+00:00:58.500 --> 00:01:02.700
+ligtas ang seryeng ito ng mga numero. Pansin!! Sinuman
+
+20
+00:01:02.700 --> 00:01:05.900
+sa numerong ito ng pribadong susi ay maa-access ang wallet mula sa kahit saan
+
+21
+00:01:05.900 --> 00:01:09.300
+at bawiin ang iyong mga ari-arian. Susunod,
+
+22
+00:01:09.300 --> 00:01:13.100
+Ipapakita ko sa iyo kung paano mag-import ng mga token sa iyong wallet. Sa
+
+23
+00:01:13.100 --> 00:01:16.600
+sa sandaling nakikita mo lang ang Ethereum sa iyong mga asset. I-click
+
+24
+00:01:16.600 --> 00:01:20.000
+mga ari-arian upang magpatuloy. Tumingin sa ibaba ng pahina. Ito
+
+25
+00:01:20.000 --> 00:01:23.400
+nagsasabing 'hindi mo ba nakikita ang iyong mga token?' May nakasulat din na 'Import
+
+26
+00:01:23.400 --> 00:01:26.500
+mga token' I-click ito. Sa Import Token
+
+27
+00:01:26.500 --> 00:01:29.600
+box para sa paghahanap, ilagay ang pangalan ng token. Dito sa
+
+28
+00:01:29.600 --> 00:01:32.700
+video, pipiliin ko ang USDT. Mag-click sa
+
+29
+00:01:32.700 --> 00:01:35.800
+ang token at pagkatapos ay i-click ang susunod. Pagkatapos, i-click ang pag-import
+
+30
+00:01:35.800 --> 00:01:39.300
+token. Ang Token ay nakikita na at available na sa
+
+31
+00:01:39.300 --> 00:01:42.700
+your asset overview. Another option is to import 
+
+32
+00:01:42.700 --> 00:01:45.900
+custom tokens. Here you can import 
+
+33
+00:01:45.900 --> 00:01:50.200
+a token if it is not shown or suggested on the Wallet. Go 
+
+34
+00:01:50.200 --> 00:01:53.500
+to Custom Token. One of the things you need to do is 
+
+35
+00:01:53.500 --> 00:01:56.800
+check the contract address of the token. By this 
+
+36
+00:01:56.800 --> 00:02:01.400
+time, we will use another platform to search for any custom coins. You 
+
+37
+00:02:01.400 --> 00:02:04.800
+can search in Etherscan.io or any other block explorers. 
+
+38
+00:02:04.800 --> 00:02:07.900
+Hit the search bar and look for 
+
+39
+00:02:07.900 --> 00:02:11.200
+your desired token or you can filter it out as 
+
+40
+00:02:11.200 --> 00:02:14.300
+coins or token, depending on what you were looking for. 
+
+41
+00:02:14.300 --> 00:02:17.600
+I choose for now EAX token or easy token.
+
+42
+00:02:17.600 --> 00:02:21.000
+token. You can see the details of that token including 
+
+43
+00:02:21.000 --> 00:02:24.100
+address and transactions. Copy the contact 
+
+44
+00:02:24.100 --> 00:02:27.200
+address of the coin but check if it's the correct coin and go 
+
+45
+00:02:27.200 --> 00:02:30.300
+back to 'copy the address'. Paste the contract 
+
+46
+00:02:30.300 --> 00:02:33.700
+address into the Token Contract Address bar. Then 
+
+47
+00:02:33.700 --> 00:02:36.800
+head to add custom token. You can check the name if it is 
+
+48
+00:02:36.800 --> 00:02:40.400
+the correct token or coin you are looking for before clicking import.
+
+49
+00:02:40.400 --> 00:02:44.200
+If you are convinced, then click 'import tokens' and 
+
+50
+00:02:44.200 --> 00:02:47.400
+you can now finally see the token in your account, ready to use!
+
+51
+00:02:47.400 --> 00:02:51.200
+For more information, news, updates 
+
+52
+00:02:51.200 --> 00:02:54.900
+and special offers, visit us at the 
+
+53
+00:02:54.900 --> 00:02:56.400
+D-WALLET.IO 

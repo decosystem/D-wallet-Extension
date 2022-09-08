@@ -1,0 +1,213 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.900
+
+
+2
+00:00:00.900 --> 00:00:04.400
+Este é um tutorial sobre como usar sua D-Wallet.
+
+3
+00:00:04.400 --> 00:00:07.500
+D-wallet é uma carteira única descentralizada para o mundo DeFi.
+
+4
+00:00:07.500 --> 00:00:10.800
+Neste vídeo, mostraremos como
+
+5
+00:00:10.800 --> 00:00:14.000
+para importar tokens em sua carteira. Para
+
+6
+00:00:14.000 --> 00:00:18.100
+ver sua carteira, vá para o canto superior direito. Clique
+
+7
+00:00:18.100 --> 00:00:22.000
+nele. Agora, clique em 'detalhes da conta'. Vocês
+
+8
+00:00:22.000 --> 00:00:25.200
+verá o código QR da sua carteira. Você pode digitalizar
+
+9
+00:00:25.200 --> 00:00:28.600
+adicioná-lo em um e-mail ou enviá-lo até mesmo por chat e enviar
+
+10
+00:00:28.600 --> 00:00:31.900
+para uma pessoa que deseja enviar criptografia para você. Sob o QR
+
+11
+00:00:31.900 --> 00:00:35.100
+código, você verá números. Esses números são seus
+
+12
+00:00:35.100 --> 00:00:38.400
+chave pública. Se você clicar nos números, eles serão copiados
+
+13
+00:00:38.400 --> 00:00:41.600
+e você pode enviá-lo para alguém que queira enviar para você
+
+14
+00:00:41.600 --> 00:00:45.000
+criptografia. Se você clicar no menu 'Visualizar no Etherscan'
+
+15
+00:00:45.000 --> 00:00:48.500
+item, você pode ver sua carteira no etherscan.io e
+
+16
+00:00:48.500 --> 00:00:51.900
+todas as transações em mais informações. Exportar
+
+17
+00:00:51.900 --> 00:00:55.100
+sua chave privada, clique no item de menu e digite sua senha
+
+18
+00:00:55.100 --> 00:00:58.500
+que você usa para fazer login na D-Wallet. Salve 
+
+19
+00:00:58.500 --> 00:01:02.700
+esta série de números com segurança. Atenção!! Alguém
+
+20
+00:01:02.700 --> 00:01:05.900
+com este número da chave privada pode acessar a carteira de qualquer lugar
+
+21
+00:01:05.900 --> 00:01:09.300
+e retirar seus bens. Próximo,
+
+22
+00:01:09.300 --> 00:01:13.100
+Mostrarei como importar tokens para sua carteira. No
+
+23
+00:01:13.100 --> 00:01:16.600
+no momento em que você vê apenas o Ethereum em seus ativos. Clique
+
+24
+00:01:16.600 --> 00:01:20.000
+ativos para continuar. Olhe para a parte inferior da página. Isto
+
+25
+00:01:20.000 --> 00:01:23.400
+diz 'não vê seus tokens?' Também diz 'Importar
+
+26
+00:01:23.400 --> 00:01:26.500
+tokens' Clique nele. No token de importação
+
+27
+00:01:26.500 --> 00:01:29.600
+caixa de pesquisa, digite o nome do token. Nisso
+
+28
+00:01:29.600 --> 00:01:32.700
+vídeo, eu escolho USDT. Clique em
+
+29
+00:01:32.700 --> 00:01:35.800
+o token e clique em Avançar. Em seguida, clique em importar
+
+30
+00:01:35.800 --> 00:01:39.300
+símbolo. O Token agora está visível e disponível em
+
+31
+00:01:39.300 --> 00:01:42.700
+sua visão geral de ativos. Outra opção é importar
+
+32
+00:01:42.700 --> 00:01:45.900
+fichas personalizadas. Aqui você pode importar
+
+33
+00:01:45.900 --> 00:01:50.200
+um token se não for mostrado ou sugerido na Carteira. Vai
+
+34
+00:01:50.200 --> 00:01:53.500
+para token personalizado. Uma das coisas que você precisa fazer é
+
+35
+00:01:53.500 --> 00:01:56.800
+verifique o endereço do contrato do token. Por este
+
+36
+00:01:56.800 --> 00:02:01.400
+vez, usaremos outra plataforma para procurar moedas personalizadas. Vocês
+
+37
+00:02:01.400 --> 00:02:04.800
+pode pesquisar no Etherscan.io ou em qualquer outro explorador de blocos.
+
+38
+00:02:04.800 --> 00:02:07.900
+Clique na barra de pesquisa e procure
+
+39
+00:02:07.900 --> 00:02:11.200
+seu token desejado ou você pode filtrá-lo como
+
+40
+00:02:11.200 --> 00:02:14.300
+moedas ou fichas, dependendo do que você estava procurando.
+
+41
+00:02:14.300 --> 00:02:17.600
+Eu escolho por enquanto o token EAX ou o token fácil.
+
+42
+00:02:17.600 --> 00:02:21.000
+símbolo. Você pode ver os detalhes desse token, incluindo
+
+43
+00:02:21.000 --> 00:02:24.100
+endereço e transações. Copie o contato
+
+44
+00:02:24.100 --> 00:02:27.200
+endereço da moeda, mas verifique se é a moeda correta e vá
+
+45
+00:02:27.200 --> 00:02:30.300
+de volta para 'copiar o endereço'. Cole o contrato
+
+46
+00:02:30.300 --> 00:02:33.700
+endereço na barra de endereço do contrato de token. Então
+
+47
+00:02:33.700 --> 00:02:36.800
+head para adicionar token personalizado. Você pode verificar o nome se for
+
+48
+00:02:36.800 --> 00:02:40.400
+o token ou moeda correto que você está procurando antes de clicar em importar.
+
+49
+00:02:40.400 --> 00:02:44.200
+Se você estiver convencido, clique em 'importar tokens' e
+
+50
+00:02:44.200 --> 00:02:47.400
+agora você pode finalmente ver o token em sua conta, pronto para usar!
+
+51
+00:02:47.400 --> 00:02:51.200
+Para mais informações, notícias, atualizações
+
+52
+00:02:51.200 --> 00:02:54.900
+e ofertas especiais, visite-nos no
+
+53
+00:02:54.900 --> 00:02:56.400
+D-WALLET.IO

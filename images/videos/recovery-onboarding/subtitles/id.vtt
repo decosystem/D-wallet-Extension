@@ -1,0 +1,213 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.900
+
+
+2
+00:00:00.900 --> 00:00:04.400
+Ini adalah tutorial tentang cara menggunakan D-Wallet Anda.
+
+3
+00:00:04.400 --> 00:00:07.500
+D-wallet adalah dompet unik yang terdesentralisasi ke dunia DeFi.
+
+4
+00:00:07.500 --> 00:00:10.800
+Di video ini, kami akan menunjukkan caranya
+
+5
+00:00:10.800 --> 00:00:14.000
+untuk mengimpor token di dompet Anda. Ke
+
+6
+00:00:14.000 --> 00:00:18.100
+melihat dompet Anda, pergi ke sudut kanan atas. Klik
+
+7
+00:00:18.100 --> 00:00:22.000
+di atasnya. Sekarang, klik 'detail akun'. Anda
+
+8
+00:00:22.000 --> 00:00:25.200
+akan melihat kode QR dompet Anda. Anda dapat memindai
+
+9
+00:00:25.200 --> 00:00:28.600
+itu, tambahkan dalam surat atau kirim bahkan per obrolan dan kirim
+
+10
+00:00:28.600 --> 00:00:31.900
+kepada seseorang yang ingin mengirim crypto kepada Anda. Di bawah QR
+
+11
+00:00:31.900 --> 00:00:35.100
+kode, Anda akan melihat angka. Angka-angka ini adalah milikmu
+
+12
+00:00:35.100 --> 00:00:38.400
+kunci publik. Jika Anda mengklik nomornya, mereka akan disalin
+
+13
+00:00:38.400 --> 00:00:41.600
+dan Anda dapat mengirimkannya kepada seseorang yang ingin mengirim Anda
+
+14
+00:00:41.600 --> 00:00:45.000
+kripto. Jika Anda mengklik menu 'Lihat di Etherscan'
+
+15
+00:00:45.000 --> 00:00:48.500
+item, Anda dapat melihat dompet Anda di etherscan.io dan
+
+16
+00:00:48.500 --> 00:00:51.900
+semua transaksi dalam informasi lebih lanjut. Untuk mengekspor
+
+17
+00:00:51.900 --> 00:00:55.100
+kunci pribadi Anda, klik item menu dan masukkan kata sandi Anda
+
+18
+00:00:55.100 --> 00:00:58.500
+yang Anda gunakan untuk masuk ke D-Wallet. Menyimpan
+
+19
+00:00:58.500 --> 00:01:02.700
+rangkaian angka ini dengan aman. Perhatian!! Siapa pun
+
+20
+00:01:02.700 --> 00:01:05.900
+dengan nomor kunci pribadi ini dapat mengakses dompet dari mana saja
+
+21
+00:01:05.900 --> 00:01:09.300
+dan menarik aset Anda. Berikutnya,
+
+22
+00:01:09.300 --> 00:01:13.100
+Saya akan menunjukkan cara mengimpor token ke dompet Anda. Pada
+
+23
+00:01:13.100 --> 00:01:16.600
+saat Anda hanya melihat Ethereum di aset Anda. Klik
+
+24
+00:01:16.600 --> 00:01:20.000
+aset untuk melanjutkan. Lihat di bagian bawah halaman. Dia
+
+25
+00:01:20.000 --> 00:01:23.400
+mengatakan 'tidak melihat token Anda?' Ia juga mengatakan 'Impor
+
+26
+00:01:23.400 --> 00:01:26.500
+klik token di atasnya. Dalam Token Impor
+
+27
+00:01:26.500 --> 00:01:29.600
+kotak pencarian, masukkan nama token. Di dalam
+
+28
+00:01:29.600 --> 00:01:32.700
+video, saya memilih USDT. Klik
+
+29
+00:01:32.700 --> 00:01:35.800
+token dan kemudian klik berikutnya. Kemudian, klik impor
+
+30
+00:01:35.800 --> 00:01:39.300
+token. Token sekarang terlihat dan tersedia di
+
+31
+00:01:39.300 --> 00:01:42.700
+gambaran umum aset Anda. Pilihan lain adalah mengimpor
+
+32
+00:01:42.700 --> 00:01:45.900
+token khusus. Di sini Anda dapat mengimpor
+
+33
+00:01:45.900 --> 00:01:50.200
+token jika tidak ditampilkan atau disarankan di Wallet. Pergi
+
+34
+00:01:50.200 --> 00:01:53.500
+ke Token Kustom. Salah satu hal yang perlu Anda lakukan adalah
+
+35
+00:01:53.500 --> 00:01:56.800
+periksa alamat kontrak token. Dengan ini
+
+36
+00:01:56.800 --> 00:02:01.400
+waktu, kami akan menggunakan platform lain untuk mencari koin kustom apa pun. Anda
+
+37
+00:02:01.400 --> 00:02:04.800
+dapat mencari di Etherscan.io atau penjelajah blok lainnya.
+
+38
+00:02:04.800 --> 00:02:07.900
+Tekan bilah pencarian dan cari
+
+39
+00:02:07.900 --> 00:02:11.200
+token yang Anda inginkan atau Anda dapat memfilternya sebagai
+
+40
+00:02:11.200 --> 00:02:14.300
+koin atau token, tergantung pada apa yang Anda cari.
+
+41
+00:02:14.300 --> 00:02:17.600
+Saya memilih untuk saat ini token EAX atau token mudah.
+
+42
+00:02:17.600 --> 00:02:21.000
+token. Anda dapat melihat detail token itu termasuk
+
+43
+00:02:21.000 --> 00:02:24.100
+alamat dan transaksi. Salin kontaknya
+
+44
+00:02:24.100 --> 00:02:27.200
+alamat koin tetapi periksa apakah itu koin yang benar dan pergi
+
+45
+00:02:27.200 --> 00:02:30.300
+kembali ke 'salin alamat'. Tempel kontrak
+
+46
+00:02:30.300 --> 00:02:33.700
+alamat ke dalam bilah Alamat Kontrak Token. Kemudian
+
+47
+00:02:33.700 --> 00:02:36.800
+kepala untuk menambahkan token khusus. Anda dapat memeriksa namanya jika itu
+
+48
+00:02:36.800 --> 00:02:40.400
+token atau koin yang benar yang Anda cari sebelum mengklik impor.
+
+49
+00:02:40.400 --> 00:02:44.200
+Jika Anda yakin, lalu klik 'impor token' dan
+
+50
+00:02:44.200 --> 00:02:47.400
+Anda sekarang akhirnya dapat melihat token di akun Anda, siap digunakan!
+
+51
+00:02:47.400 --> 00:02:51.200
+Untuk informasi lebih lanjut, berita, pembaruan
+
+52
+00:02:51.200 --> 00:02:54.900
+dan penawaran khusus, kunjungi kami di
+
+53
+00:02:54.900 --> 00:02:56.400
+D-WALLET.IO
