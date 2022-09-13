@@ -1,8 +1,6 @@
 {
   "author": "https://d-wallet.io/",
   "background": {
-    "service_worker": "background.js",
-    "type": "module" ,
     "page": "background.html",
     "persistent": true
   },
@@ -68,7 +66,7 @@
     "128": "images/icon-128.png",
     "512": "images/icon-512.png"
   },
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "__MSG_appName__",
   "permissions": [
     "storage",
@@ -96,6 +94,6 @@
       "*"
     ]
   },
-  "minimum_chrome_version": "88",
+  "minimum_chrome_version": "66",
   "version": "1.8.2"
 }
